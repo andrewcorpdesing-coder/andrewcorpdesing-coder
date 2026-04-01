@@ -15,11 +15,11 @@ Welcome to my digital workspace. I am a builder, founder at [Cloution S.A.S.], a
 
 ### 📦 Highlighted Open Source
 [![NPM Version](https://img.shields.io/npm/v/hiveclaude.svg?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/hiveclaude)  
-**`hiveclaude`**: A public npm package designed to [AQUÍ ESCRIBE EN 5 PALABRAS QUÉ HACE EL PAQUETE, ej: optimize Claude API integrations].
+**`hiveclaude`**: A public npm package designed to Coordina multiple claude code agents in paralel working.
 
 ### 📬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN_AQUI)
-[![Portfolio/Web](https://img.shields.io/badge/Website-1E1E1E?style=for-the-badge&logo=google-chrome&logoColor=white)](TU_WEB_DE_CLOUTION_O_PORTAFOLIO_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justine-serna-3a1790196/)
+[![Portfolio/Web](https://img.shields.io/badge/Website-1E1E1E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.cloution.cloud/)
 
 ---
 *"There are no impossibles, only challenges."*
